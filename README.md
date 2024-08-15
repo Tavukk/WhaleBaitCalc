@@ -1,6 +1,6 @@
 # Whale Bait Calculator For Hypixel Skyblock
 
-## This is a calculator for hypixel skyblock specifically for the item "Whale Bait".
+## This is a calculator written in C++ for Hypixel Skyblock specifically for the item "Whale Bait"
 
 ### It gets the prices for the items raw fish, raw salmon, gold ingot, prismarine crystal, ink sac and whale bait in real time. Then it asks for the amount of coins you want to flip with. It calculates how many of each item you need. Lastly it calculates the profit you are going to make from the flip in total.
 
